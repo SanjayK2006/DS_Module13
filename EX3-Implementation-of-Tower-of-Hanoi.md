@@ -13,7 +13,7 @@ To write a C program to implement Tower of Hanoi
 7. End  
 
 ## Program:
-
+```
 /*
 Program to implement Tower of Hanoi
 Developed by: SANJAY K
@@ -35,7 +35,7 @@ int main()
 int n=2; 
 TOH(n,'A','B','C'); 
 }
-
+```
 
 ## Output:
 
