@@ -15,7 +15,7 @@ operation, and push the result.
 the loop ends. 
 8. End 
 ## Program:
-
+```
 /*
 Program to evaluate the given prefix expression
 Developed by: SANJAY K
@@ -68,7 +68,7 @@ push(p[i]-48);
 printf("%d",pop()); 
 }
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/f3ae370f-86f4-44d3-b718-9f8ea9a5dc64)
